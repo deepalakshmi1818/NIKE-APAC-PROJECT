@@ -8,9 +8,9 @@ A data analytics project simulating Nike's APAC digital ad strategy, analyzing *
 
 ## 📌 Project Overview
 
-Brands running YouTube ad campaigns across APAC need to know **where**, **when**, and **how safely** their ads can appear. This project analyzes regional trending-video behavior — engagement, controversy risk, genre mix, and publishing rhythm — to answer three questions a media planning team would ask:
+Nike Brand running YouTube ad campaigns across APAC need to know **where**, **when**, and **how safely** their ads can appear. This project analyzes regional trending-video behavior — engagement, controversy risk, genre mix, and publishing rhythm — to answer three questions a media planning team would ask:
 
-1. Which content genres and regions are safe to standardize creative across?
+1. Which content genres and regions are safe for nike to standardize creative across?
 2. Where is brand-safety risk (dislike ratio / "friction") elevated, and does it differ by market?
 3. When should campaign assets and influencer drops go live to maximize organic visibility at the lowest bid cost?
 
@@ -44,7 +44,7 @@ India spikes sharply within Day 1–2 then decays fast. Japan is a slow-burn, pe
 
 ### 2. Top Genres by Region
 Entertainment dominates all three markets (India 16,712 · South Korea 8,955 · Japan 6,259 trending videos). India's #2 genre is News & Politics; Japan's #2 is People & Blogs.
-→ **Genre mix should guide creative placement per market.**
+→ **Genre mix should guide creative ad placement per market.**
 
 ### 3. Engagement Rate (Likes / Views)
 Median engagement: India 0.94%, Japan 1.16%, South Korea 1.10%. Kruskal-Wallis test: H = 0.81, p = 0.667 — **not statistically significant**.
